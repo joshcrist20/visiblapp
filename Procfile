@@ -1,0 +1,1 @@
+web: gunicorn visiblapp.wsgi --log-file - 
